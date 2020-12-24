@@ -1,3 +1,7 @@
+# Primera app con react
+en esta app se uso useStade, onClick y PropTypes
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

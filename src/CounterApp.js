@@ -23,8 +23,8 @@ const CounterApp = ({ value=10 }) => {
 
     //funcion que recibe el value del componente
     const handleReset = ()=>{
-        setCounter(value);
-      
+       setCounter(value);
+      // setCounter(()=> value  );
     }
 
 
