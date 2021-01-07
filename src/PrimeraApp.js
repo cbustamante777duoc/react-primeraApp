@@ -32,6 +32,7 @@ PrimeraApp.propTypes = {
 //valor por defecto que va a tener el componente
 PrimeraApp.defaultProps = {
     equipo:'Real madrid'
+
 }
 
 export default PrimeraApp;
