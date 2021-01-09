@@ -14,7 +14,7 @@ const PrimeraApp = ({saludo, subtitulo='valor por defecto',equipo}) =>{
         <>
             <h1>{saludo}</h1>
             {/* <pre>JSON.stringify(saludo, null, 3)</pre> */}
-            <p>{subtitulo}</p>
+            <p id="texto">{subtitulo}</p>
             <hr></hr>
             <p>{equipo}</p>
         </>

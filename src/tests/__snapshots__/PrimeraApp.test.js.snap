@@ -5,7 +5,9 @@ exports[`Pruebas en <PrimeraApp/> debe de mostrar la <PrimeraApp/> correctamente
   <h1>
     hola, jennie
   </h1>
-  <p>
+  <p
+    id="texto"
+  >
     valor por defecto
   </p>
   <hr />
